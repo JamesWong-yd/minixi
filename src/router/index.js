@@ -22,7 +22,7 @@ export default new Router({
           component: CIndex
         },
         {
-          path: '/cindex',
+          path: '/index',
           component: CIndex
         },
         {
